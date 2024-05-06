@@ -26,7 +26,7 @@ This is a simple OSINT (Open Source Intelligence) tool developed by Yessin. It a
     cd osint-by-yessin
     ```
 
-3. Give the setup file permissions
+3. Give the setup file permissions:
 
     ```bash
     chmod +x setup.sh
